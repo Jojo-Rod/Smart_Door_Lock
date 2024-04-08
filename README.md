@@ -1,8 +1,8 @@
 # RFID Door Access Control System
 
-#Demonstration:
-
-https://github.com/Jojo-Rod/Smart_Door_Lock/issues/3#issue-2231888452
+## Demonstration:
+Click on the link -->
+   https://github.com/Jojo-Rod/Smart_Door_Lock/issues/3#issue-2231888452
 
 ## Components Used:
 
@@ -26,3 +26,7 @@ https://github.com/Jojo-Rod/Smart_Door_Lock/issues/3#issue-2231888452
 
 ## Future Scope & Improvements:
 This project provides a basic framework for implementing a door access control system using Arduino and RFID technology. It can be extended and customized based on specific requirements and additional features desired.
+
+Contributors:
+
+[Johanna Rodrigues] - Developer
