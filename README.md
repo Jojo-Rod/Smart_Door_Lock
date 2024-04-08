@@ -2,7 +2,7 @@
 
 #Demonstration:
 
-https://github.com/Jojo-Rod/Smart_Door_Lock/issues/2#issue-2231858340
+https://github.com/Jojo-Rod/Smart_Door_Lock/issues/3#issue-2231888452
 
 ## Components Used:
 
